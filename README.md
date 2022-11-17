@@ -54,7 +54,7 @@ Segmentleri betimleyiniz (Segmentleregöre groupbyyapıp pricemean, max, sum’l
 - 35 yaşında IOS kullanan bir Fransız kadını hangi segmenteaittir ve ortalama ne kadar gelir kazandırması beklenir?
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/barancanercan/miuulProject
 ```
 
 ## Usage 
@@ -64,7 +64,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için
 
 ```linux
-cd kodluyoruzilkrepo
+cd miuulProject
 code .
 ```
 ## Contributing
