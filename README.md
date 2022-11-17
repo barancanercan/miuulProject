@@ -43,11 +43,13 @@ kullanıcı birden fazla alışveriş yapmış olabilir.
 ### Görev 5: Age değişkenini kategorik değişkene çeviriniz ve agg_df’eekleyiniz. Age sayısal değişkenini kategorik değişkene çeviriniz.
 
 ### Görev 6: Yeni seviye tabanlı müşterileri (persona) tanımlayınız.
-Yeni seviye tabanlı müşterileri (persona) tanımlayınız ve veri setine değişken olarak ekleyiniz. Yeni eklenecek değişkenin adı: customers_level_based Önceki soruda elde edeceğiniz çıktıdaki gözlemleri bir araya getirerek customers_level_based değişkenini oluşturmanız gerekmektedir.
-### Görev 7: Yeni müşterileri (personaları) segmentlereayırınız.
-Yeni müşterileri (Örnek: USA_ANDROID_MALE_0_18) PRICE’agöre 4 segmente ayırınız. 
-Segmentleri SEGMENT isimlendirmesi ile değişken olarak agg_df’e ekleyiniz. 
-Segmentleri betimleyiniz (Segmentleregöre groupbyyapıp pricemean, max, sum’larını alınız).
+- Yeni seviye tabanlı müşterileri (persona) tanımlayınız ve veri setine değişken olarak ekleyiniz. 
+- Yeni eklenecek değişkenin adı: customers_level_based Önceki soruda elde edeceğiniz çıktıdaki gözlemleri bir araya getirerek customers_level_based değişkenini oluşturmanız gerekmektedir.
+
+### Görev 7: Yeni müşterileri (personaları) segmentlere ayırınız.
+- Yeni müşterileri (Örnek: USA_ANDROID_MALE_0_18) PRICE’agöre 4 segmente ayırınız. 
+- Segmentleri SEGMENT isimlendirmesi ile değişken olarak agg_df’e ekleyiniz. 
+- Segmentleri betimleyiniz (Segmentleregöre groupbyyapıp pricemean, max, sum’larını alınız).
 
 
 ### Görev 8: Yeni gelen müşterileri sınıflandırıp, ne kadar gelir getirebileceklerini tahmin ediniz.
@@ -71,6 +73,12 @@ code .
 ## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için önce neyi değiştirmek istediğiniz tartışmak için konu açınız.
+
+## Where to find me
+
+- *Linkedin:* https://www.linkedin.com/in/barancanercan/
+- *Medium:* https://barancanercan.medium.com/
+
 
 ## Lisans 
 
