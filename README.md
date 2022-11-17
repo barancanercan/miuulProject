@@ -59,7 +59,7 @@ git clone https://github.com/barancanercan/miuulProject
 
 ## Usage 
 
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Projeyi cloneladıktan sonra herhangi bir Jupyter Notebook'da açınız.
 
 Linux için
 
