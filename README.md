@@ -56,6 +56,9 @@ kullanıcı birden fazla alışveriş yapmış olabilir.
 - 33 yaşında ANDROID kullanan bir Türk kadını hangi segmente aittir ve ortalama ne kadar gelir kazandırması beklenir? 
 - 35 yaşında IOS kullanan bir Fransız kadını hangi segmenteaittir ve ortalama ne kadar gelir kazandırması beklenir?
 
+## Installation
+Öncelikle projeyi clonelayın.
+
 ```bash
 git clone https://github.com/barancanercan/miuulProject
 ```
