@@ -26,16 +26,16 @@ kullanıcı birden fazla alışveriş yapmış olabilir.
 ## Proje Görevleri
 
 ### Görev 1: Aşağıdaki Soruları Yanıtlayınız
-Soru 1: persona.csv dosyasını okutunuz ve veri seti ile ilgili genel bilgileri gösteriniz. 
-Soru 2: Kaç unique SOURCE vardır? Frekansları nedir? 
-Soru 3: Kaç unique PRICE vardır? 
-Soru 4: Hangi PRICE'dan kaçar tane satış gerçekleşmiş? 
-Soru 5: Hangi ülkeden kaçar tane satış olmuş? 
-Soru 6: Ülkelere göre satışlardan toplam ne kadar kazanılmış? 
-Soru 7: SOURCE türlerine göre satış sayıları nedir? 
-Soru 8: Ülkelere göre PRICE ortalamaları nedir? 
-Soru 9: SOURCE'lara göre PRICE ortalamaları nedir? 
-Soru 10: COUNTRY-SOURCE kırılımında PRICE ortalamaları nedir?
+- Soru 1: persona.csv dosyasını okutunuz ve veri seti ile ilgili genel bilgileri gösteriniz. 
+- Soru 2: Kaç unique SOURCE vardır? Frekansları nedir? 
+- Soru 3: Kaç unique PRICE vardır? 
+- Soru 4: Hangi PRICE'dan kaçar tane satış gerçekleşmiş? 
+- Soru 5: Hangi ülkeden kaçar tane satış olmuş? 
+- Soru 6: Ülkelere göre satışlardan toplam ne kadar kazanılmış? 
+- Soru 7: SOURCE türlerine göre satış sayıları nedir? 
+- Soru 8: Ülkelere göre PRICE ortalamaları nedir? 
+- Soru 9: SOURCE'lara göre PRICE ortalamaları nedir? 
+- Soru 10: COUNTRY-SOURCE kırılımında PRICE ortalamaları nedir?
 
 ### Görev 2: COUNTRY, SOURCE, SEX, AGE kırılımında ortalama kazançlar nedir?
 ### Görev 3: Çıktıyı PRICE’a göre sıralayınız.
